@@ -99,14 +99,6 @@
 
 ----------
 
-### **Key Takeaways**
-
--   Navya Nyaya is an advanced system of logic and epistemology that emerged in medieval India as a refinement of classical Nyaya.
--   Gangesha Upadhyay's _Tattva Chintamani_ laid the foundation for this system, emphasizing clarity, precision, and rigorous reasoning.
--   Navya Nyaya's contributions are not limited to philosophy but extend to linguistics, law, and even contemporary fields like formal logic and AI.
-
-----------
-
 ### **Examples to Illustrate Navya Nyaya**
 
 1.  **Analyzing a Statement**:
@@ -133,14 +125,6 @@
 
 ----------
 
-### **Activities for Students**
-
-1.  **Reflection**: Think of a daily activity (e.g., identifying weather conditions based on clouds) and describe how reasoning plays a role in it.
-2.  **Discussion**: Why do you think precision in reasoning is essential in fields like law or science?
-3.  **Homework**: Research the life of Gangesha Upadhyay and write a short paragraph about his contributions.
-
-----------
-
 ### **Glossary for Lecture 1**
 
 1.  **Nyaya**: Logic or reasoning.
@@ -155,5 +139,6 @@
 
 Navya Nyaya stands as a significant intellectual achievement in Indian philosophy, providing tools for systematic reasoning and logical precision. This introductory lecture sets the foundation for understanding the deeper concepts of Navya Nyaya in the coming weeks.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NzY5MTYxODFdfQ==
+eyJoaXN0b3J5IjpbLTE0NTY4NTQ3NTcsLTE4NzY5MTYxODFdfQ
+==
 -->
