@@ -139,6 +139,5 @@
 
 Navya Nyaya stands as a significant intellectual achievement in Indian philosophy, providing tools for systematic reasoning and logical precision. This introductory lecture sets the foundation for understanding the deeper concepts of Navya Nyaya in the coming weeks.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTY4NTQ3NTcsLTE4NzY5MTYxODFdfQ
-==
+eyJoaXN0b3J5IjpbLTE0NTY4NTQ3NTddfQ==
 -->
