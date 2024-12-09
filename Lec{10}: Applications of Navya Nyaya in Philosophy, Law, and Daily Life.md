@@ -240,12 +240,6 @@ Argument**:
 4.  **Hetvabhasa**: Fallacies or defective reasoning.
 5.  **Visheshya-Visheshana**: Qualified-qualifier relationship.
 6.  **Avachhedaka**: Limitor; a condition that defines a relationship.
-
-----------
-
-### **Conclusion**
-
-Navya Nyaya is not just a system of ancient Indian logic but a timeless framework for critical thinking and logical analysis. Its applications in philosophy, law, linguistics, and even AI highlight its relevance in both classical and modern contexts. As we conclude this course, students are encouraged to apply the tools and techniques of Navya Nyaya in their own academic, professional, and daily lives.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwMjAzNDA1MV19
+eyJoaXN0b3J5IjpbMTUwMDUwNTYzOSwxNzAyMDM0MDUxXX0=
 -->
