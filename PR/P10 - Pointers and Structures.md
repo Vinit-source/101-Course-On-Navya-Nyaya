@@ -1,7 +1,4 @@
-
-# Demonstrating the Use of Pointers and Structures in C
-
-## Objective: Write C Programs to Demonstrate the Use of Pointers and Structures in C
+## Write C Programs to Demonstrate the Use of Pointers in C
 
 ### Aim
 
@@ -22,17 +19,6 @@ To understand and implement the use of pointers and structures in C programming,
 5.  Print each element of the array by dereferencing the pointer.
 6.  End the program.
 
-**Flowchart:**
-
-```mermaid
-graph TD;
-    A[Start] --> B[Declare character array and pointer];
-    B --> C[Initialize pointer to array base];
-    C --> D[Loop through array using pointer];
-    D --> E[Print element using pointer dereferencing];
-    E --> F[End];
-
-```
 
 #### Example 2: Call by Reference
 
@@ -48,19 +34,6 @@ graph TD;
 6.  Print the modified value of the variable.
 7.  End the program.
 
-**Flowchart:**
-
-```mermaid
-graph TD;
-    A[Start] --> B[Declare variable and initialize];
-    B --> C[Define function with pointer parameter];
-    C --> D[Call function with variable address];
-    D --> E[Modify variable value using dereferencing];
-    E --> F[Return to main function];
-    F --> G[Print modified value];
-    G --> H[End];
-
-```
 
 
 ----------
@@ -79,5 +52,5 @@ graph TD;
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NzkwNjc3MzZdfQ==
+eyJoaXN0b3J5IjpbMjg4Njc1MjAxLC0xNTc5MDY3NzM2XX0=
 -->
